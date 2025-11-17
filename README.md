@@ -1,7 +1,7 @@
 #
 
 <p align="center">
-  <img src="./frontend/assets/neonlogo.png" alt="PongJam Logo" width="400">
+  <img src="./readme_assets/logo_githubbackgroundcolor.png" alt="PongJam Logo" width="400">
 </p>
 
 ## <p align="center"> 🕹️ A realtime web-based pong game, _as our graduation project at [42](https://www.42network.org) 🎓_ </p>
