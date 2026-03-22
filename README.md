@@ -9,7 +9,7 @@
 ### 👥 Team members & collaboration: 
 - 🛠️ [Ramy](https://github.com/letsgogeeky): Team & Project Management, Devops, containerization & overall infrastructure 
 - 🔐 [Bori](https://github.com/pisakbori): User Management, authentication (2FA & remote), database & microservices for the backend
-- 🎨 [Mary Kate](https://github.com/MKcodes2): frontend & overall design of the platform, creation of this README
+- 🎨 [Mary Kate](https://github.com/MKcodes2): frontend, UI/UX, and creation of this README
 - 🎮 [Alex](https://github.com/aoprea42): Game component with 3D graphics & AI opponent
 - 💬 [Timo](https://github.com/TimoKillinger): live-chat component (tournament & private chat)
 
